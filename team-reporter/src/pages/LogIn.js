@@ -44,7 +44,7 @@ function LogIn() {
         <Button type="primary" htmlType="submit" className="login-form-button">
         <Link to="Home">Log in</Link>
         </Button>
-          Not have Account? <Link to="SignUp">register now!</Link>
+          Not Have Account? <Link to="SignUp">Register now!</Link>
       </Form.Item>
     </Form>  
     )
